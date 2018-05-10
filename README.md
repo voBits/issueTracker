@@ -1,5 +1,5 @@
-# [Click here to go to the issue tracker &rarr;](https://github.com/lemurheavy/coveralls-public/issues)
+# [Click here to go to the issue tracker &rarr;](https://github.com/voBits/issueTracker/issues/new)
 
-This repo is for issues with the [coveralls.io](http://coveralls.io) service only.
+This repo is for issues with the [voBits Development](http://vobits.github.io) service only.
 
-For issues with our Ruby gem, please [click here](https://github.com/lemurheavy/coveralls-ruby/issues).
+For issues with our voBits trading platform listing, please [click here](https://github.com/voBits/tokenbase/issues/new).
