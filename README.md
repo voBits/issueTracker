@@ -2,4 +2,4 @@
 
 This repo is for issues with the [voBits Development](http://vobits.github.io) service only.
 
-For issues with our voBits trading platform listing, please [click here](https://github.com/voBits/tokenbase/issues/new).
+For issues with how to submit your token on our voBits trading platform, please [click here](https://github.com/voBits/tokenbase/issues).
